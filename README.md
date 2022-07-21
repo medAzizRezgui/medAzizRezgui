@@ -18,6 +18,6 @@ Hello 👋 , My name is aziz, I am a frontend developer 👨‍💻, I fell in l
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=medAzizRezgui&count_private=true&show_icons=true&include_all_commits=true)
 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medAzizRezgui&hide=TeX&layout=compact)
