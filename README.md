@@ -15,7 +15,6 @@ Hello 👋 , My name is aziz, I am a frontend developer 👨‍💻, I fell in l
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 <!-- -->
 <!-- -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=medAzizRezgui&count_private=true&show_icons=true&include_all_commits=true)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui)](https://git.io/streak-stats)
