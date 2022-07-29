@@ -17,6 +17,6 @@ Hello 👋 , My name is aziz, I am a frontend developer 👨‍💻, I fell in l
 <!-- -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medAzizRezgui&hide=TeX&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medAzizRezgui&hide=TeX&layout=compact)
+
