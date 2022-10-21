@@ -1,5 +1,5 @@
 
-Hello 👋 , My name is aziz, I am a frontend developer 👨‍💻, I fell in love with what I do once I understood how css works! now i am learning React ⚛️  !
+Hello 👋 , My name is aziz, I am a fullstack developer 👨‍💻,Currently working with & learning MERN Stack.
 
 
 
