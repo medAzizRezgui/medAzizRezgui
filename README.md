@@ -30,5 +30,5 @@ Hello 👋 , My name is aziz, I am a fullstack developer 👨‍💻,Currently w
 <!-- -->
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=medAzizRezgui&theme=dark)](https://git.io/streak-stats) -->
 
