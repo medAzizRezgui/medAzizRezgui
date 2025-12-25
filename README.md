@@ -12,13 +12,8 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm currently learning **new technologies**
-- 💬 Ask me about **anything tech-related**
 - 📫 How to reach me: **azizrezgui4@gmail. com**
-- ⚡ Fun fact: ** **
+- ⚡ Fun fact: **🌿**
 
 ---
 
